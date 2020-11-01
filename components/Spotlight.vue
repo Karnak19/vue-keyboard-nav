@@ -30,7 +30,7 @@ export default {
     const selectedIndex = ref(0);
     const selectedSuggestion = ref('');
 
-    // Create
+    // Create full paths for childrens
     const mapRecursion = (array, parentPath = undefined) => {
       return array.map((el) => {
         const val = {

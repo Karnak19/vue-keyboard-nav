@@ -1,5 +1,5 @@
 {
-  "name": "vue-spotlight",
+  "name": "vue-keyboard-nav",
   "version": "1.0.0",
   "description": "Vue 3 component that grab your routes and enable navigation by keyboard shortcut",
   "main": "index.js",
@@ -9,6 +9,9 @@
   "keywords": [
     "vue",
     "spotlight",
+    "keyboard navigation",
+    "navigation",
+    "shortcut",
     "component"
   ],
   "author": "Basile V. <basile64.v@gmail.com>",
