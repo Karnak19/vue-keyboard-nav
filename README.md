@@ -65,7 +65,7 @@ Then export your `routes`, aswell as `isActive` and `blur` from your setup funct
 ## Keybinds
 `ctrl + k` : Open the spotlight
 
-while Spotlight is opened: 
-`Escape` : close the Spotlight
-`Arrow key up/down` : navigate in the filtered list
-`Enter` : Validate your active choice, close the Spotlight and redirect to your selected choice.
+while Spotlight is opened:  
+`Escape` : close the Spotlight  
+`Arrow key up/down` : navigate in the filtered list  
+`Enter` : Validate your active choice, close the Spotlight and redirect to your selected choice.  
