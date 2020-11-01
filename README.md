@@ -62,4 +62,10 @@ export default {
 
 Then export your `routes`, aswell as `isActive` and `blur` from your setup function, to pass it as props to the `<Spotlight>` component.
 
-Then you have to press `ctrl + K` to open the spotlight, and filter by
+## Keybinds
+`ctrl + k` : Open the spotlight
+
+while Spotlight is opened: 
+`Escape` : close the Spotlight
+`Arrow key up/down` : navigate in the filtered list
+`Enter` : Validate your active choice, close the Spotlight and redirect to your selected choice.
