@@ -1,12 +1,16 @@
 {
   "name": "vue-spotlight",
   "version": "1.0.0",
-  "description": "",
+  "description": "Vue 3 component that grab your routes and enable navigation by keyboard shortcut",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "keywords": [
+    "vue",
+    "spotlight",
+    "component"
+  ],
+  "author": "Basile V. <basile64.v@gmail.com>",
+  "license": "MIT"
 }
