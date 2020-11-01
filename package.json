@@ -1,6 +1,6 @@
 {
   "name": "vue-keyboard-nav",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Vue 3 component that grab your routes and enable navigation by keyboard shortcut",
   "main": "index.js",
   "scripts": {
